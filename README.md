@@ -1,3 +1,5 @@
+![Banner](media/banner.png)
+
 ## 👋 Welcome!
 
 I'm a **Junior Software Developer – FullStack & AI**, passionate about building applications with real-world impact. I enjoy combining Backend development, AI techniques, and intuitive UI to create user-friendly experiences.
