@@ -47,7 +47,7 @@ I'm a **Junior Software Developer – FullStack & AI**, passionate about buildin
 Do you have an interesting idea or collaboration opportunity? I'd love to hear about it!
 
 -   💼 **LinkedIn:** [hamza-ayari](https://www.linkedin.com/in/hamza-ayari-9003aa23b/)
--   📧 **Email:** [nuriadevs@gmail.com](mailto:hamzaayari2026@gmail.com)
--   🌐 **Website:** [**](**)
+-   📧 **Email:** [hamzaayari2026@gmail.com](mailto:hamzaayari2026@gmail.com)
+-   🌐 **Website:** [**]()
 
 ### Thanks for visiting my profile! 🚀
