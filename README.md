@@ -1,46 +1,53 @@
-<div align="center">
+## 👋 Welcome!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&pause=1000&center=true&vCenter=true&width=435&height=24&lines=Hello+World!;This+is+Hamza;Welcome+to+my+Profile!)](https://git.io/typing-svg)
----
-Fullstack Developer
-  
-[![](https://komarev.com/ghpvc/?username=hamzaayarii)](https://github.com/hamzaayarii)
-[![Linkedin](https://img.shields.io/badge/Linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/hamza-ayari-9003aa23b/)
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=007EC6&labelColor=555555&logo=gmail&logoColor=f5f7fe)](mailto:hamzaayari2026@gmail.com?subject=From%20GitHub&&body=Hi,%20there.%20Found%20you%20on%20GitHub!%20Let's%20talk%20about...)
+I'm a **Junior Software Developer – FullStack & AI**, passionate about building applications with real-world impact. I enjoy combining Backend development, AI techniques, and intuitive UI to create user-friendly experiences.
 
-</div>
+### 🌍 Currently open to remote opportunities and collaborative tech projects.
 
-<div align="center">
-  
- # 💻 Full Stack
-<div align="center">
-    <h3>My Tech Stack</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,redux,angular,nodejs,express,spring,mongodb,postgresql,bootstrap,tailwind,git,docker,jenkins" />
-  </a>
-</div>
-  <p align="center">
- <img width="1000" src="snake.svg" alt="snake"/>
-</p>
+----------
 
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<details> 
-  <summary> ✖️ Click to See More ✖️</summary>
-  <br/>  
-  
-  ### &#x1f4c8; GitHub Stats
-  
-<p align="center" >
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-BS&langs_count=6&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,html,css,tsql,hack)](https://github.com/Youssef-BS) <img height="165" src="http://github-readme-streak-stats.herokuapp.com?user=Youssef-BS&theme=tokyonight&hide_border=true&background=1F222E" />
-  
-</p>
-  
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  
-</details>
- 
-  
-</div>
+## 💻 Tech Stack
 
----
+### 🧑‍💻 Programming Languages
+
+<div> <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/> <img src="https://img.shields.io/badge/Java-FF2D00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>  </div>
+
+### 🤖 AI & Big Data
+
+<div> <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/> <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/> <img src="https://img.shields.io/badge/Jupyter-FFA500?style=for-the-badge&labelColor=FFFFFF&logo=jupyter" alt="Jupyter"/> <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/> <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/> </div>
+
+### 🎨 Frontend
+
+<div> <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/> <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="SASS"/> <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/> </div>
+
+### 🛠️ Backend
+
+<div> <img src="https://img.shields.io/badge/laravel-%23323330.svg?style=for-the-badge&logo=laravel&logoColor=FF0000" alt="Laravel"/> <img src="https://img.shields.io/badge/postman-%23323330.svg?style=for-the-badge&logo=postman&logoColor=FF0000" alt="Postman"/> <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"/> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/> </div>
+
+### 🗃️ Databases
+
+<div> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/> <img src="https://img.shields.io/badge/Firebase-%23316192.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/> <img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/> </div>
+
+### 🎨 Design
+
+<div> <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=FF61F6" alt="Adobe XD"/> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva"/> </div>
+
+### 🖥️ Tools / OS
+
+<div> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/sourcetree-0078D6.svg?style=for-the-badge&logo=sourcetree&logoColor=white" alt="Sourcetree"/> <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white" alt="Ubuntu"/> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/> </div>
+
+### 🌍 Remote Tools
+
+<div> <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" alt="Trello"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack"/> <img src="https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white" alt="Google Meet"/> </div>
+
+----------
+
+## 📫 Let's Connect!
+
+Do you have an interesting idea or collaboration opportunity? I'd love to hear about it!
+
+-   💼 **LinkedIn:** [hamza-ayari](https://www.linkedin.com/in/hamza-ayari-9003aa23b/)
+-   📧 **Email:** [nuriadevs@gmail.com](mailto:hamzaayari2026@gmail.com)
+-   🌐 **Website:** [**](**)
+
+### Thanks for visiting my profile! 🚀
