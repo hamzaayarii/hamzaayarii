@@ -4,7 +4,7 @@
 
 I'm a **Junior Software Developer – FullStack & AI**, passionate about building applications with real-world impact. I enjoy combining Backend development, AI techniques, and intuitive UI to create user-friendly experiences.
 
-### 🌍 Currently open to remote opportunities and collaborative tech projects.
+### 🌍 Currently looking for End Of Study internship (PFE).
 
 ----------
 
